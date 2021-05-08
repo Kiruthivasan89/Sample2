@@ -11,7 +11,7 @@ int f=5, fact=1;
 		
 		fact=fact*i;
 		
-		
+		System.out.println("Sample");
 	}
 	System.out.println("The Factorial number is: "+fact);
 	
